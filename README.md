@@ -55,6 +55,8 @@ flowchart LR
 
 **过程证据：** [空间与物种资料](media/) · [案例数据](case-data.json) · [数字案例实现](site-source/)
 
+**指令控制：** 先用完整任务说明组织案例结构与视觉基准，再以精准短指令调整阶段递进、尺度、材质与视觉连续，通过实际画面与原作对照验收。
+
 [阅读完整的项目工作流](工作流.md) · [我的 AI 设计方法](https://github.com/Zhiyuan-Xiong/xiongzhiyuan-portfolio/blob/main/docs/AI设计工作流.md)
 
 ## 仓库内容
