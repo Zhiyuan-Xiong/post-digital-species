@@ -1,0 +1,163 @@
+{
+  "slug": "post-digital-species",
+  "title": {
+    "zh": "NO.3 后数字物种",
+    "en": "NO.3 Post-digital Species"
+  },
+  "subtitle": {
+    "zh": "数字永生时代的新形态｜概念世界观设计",
+    "en": "New forms in the age of digital immortality | Concept worldbuilding"
+  },
+  "description": {
+    "zh": "将数字遗产、资源循环与生物培育连接为死亡、转化、重生的三阶段未来世界。",
+    "en": "Digital inheritance, resource circulation, and biological cultivation connect death, conversion, and rebirth in a speculative future world."
+  },
+  "categories": [
+    "3d",
+    "visual"
+  ],
+  "status": "published",
+  "kind": {
+    "zh": "未来概念世界观／三维场景设计",
+    "en": "Future concept worldbuilding / 3D environment design"
+  },
+  "cover": "species-cover",
+  "background": "species-cultivation-detail",
+  "coverAlt": {
+    "zh": "冰蓝色透明生物培育装置，两侧围绕着数字挽歌与生物纹样。",
+    "en": "An icy-blue transparent cultivation installation framed by digital memorial and biological ornaments."
+  },
+  "role": {
+    "zh": "概念世界观、三维场景与视觉设计",
+    "en": "Concept worldbuilding, 3D environments, and visual design"
+  },
+  "stage": {
+    "zh": "概念设计、三维模型与场景影像",
+    "en": "Concept design, 3D models, and environment films"
+  },
+  "deliverables": {
+    "zh": "未来设定、研究图、三阶段概念模型、数字葬礼流程、物种档案与四段场景影片",
+    "en": "Future setting, research boards, three-stage concept models, digital funeral flow, species archives, and four scene films"
+  },
+  "overview": {
+    "zh": "项目以“数字永生”为核心命题，思考当数字身份与现实身份同等重要时，死亡是否仍然意味着生命的终结。在未来社会中，人类的记忆、情感、行为轨迹与社会关系被持续存储于网络之中，数字身份逐渐成为与现实生命同样重要的存在。肉体会消亡，但数据不会；生命会结束，而记忆仍将继续留存。",
+    "en": "The project explores digital immortality: when a digital identity becomes as significant as a physical one, does death still mark the end of life? In this imagined future, memories, emotions, behaviour, and relationships are continuously stored online. The body disappears, while its data and memories remain."
+  },
+  "sections": [
+    {
+      "id": "worldview",
+      "title": {
+        "zh": "数字永生的世界",
+        "en": "Digital immortality"
+      },
+      "paragraphs": [
+        {
+          "zh": "项目以“数字永生”为核心命题，思考当数字身份与现实身份同等重要时，死亡是否仍然意味着生命的终结。在未来社会中，人类的记忆、情感、行为轨迹与社会关系被持续存储于网络之中，数字身份逐渐成为与现实生命同样重要的存在。肉体会消亡，但数据不会；生命会结束，而记忆仍将继续留存。",
+          "en": "The project explores digital immortality: when a digital identity becomes as significant as a physical one, does death still mark the end of life? In this imagined future, memories, emotions, behaviour, and relationships are continuously stored online. The body disappears, while its data and memories remain."
+        },
+        {
+          "zh": "然而，数字永生并非没有代价。随着数字遗产规模不断增长，维系其运行的数据系统开始消耗庞大的能源与资源，数字文明的发展逐渐与现实生态产生新的矛盾。人类试图保存过去，却在无形中改变着未来。",
+          "en": "Digital immortality comes at a cost. As digital legacies accumulate, the systems maintaining them consume increasing amounts of energy and resources. Preserving the past begins to change the future, creating a conflict between digital civilisation and the physical ecosystem."
+        },
+        {
+          "zh": "基于这一设想，项目进一步将数字遗产、能源循环与生物技术相结合，提出“NO.3 Post-digital Species”的未来概念。它既非传统意义上的人类，也并非完全由数据构成的人工智能，而是一种由数字记忆、生物信息与生态循环共同孕育出的第三生命形态。逝者留下的数据得以延续，数字世界产生的能量消耗被重新转化，而新的生命则从两者交汇之处诞生。",
+          "en": "The resulting concept, NO.3 Post-digital Species, combines digital inheritance, resource circulation, and biotechnology. Neither a conventional human nor a purely digital intelligence, this speculative third form of life emerges where digital memories, biological information, and ecological resources meet."
+        },
+        {
+          "zh": "当现实生命创造数字生命，数字生命消耗现实资源，而资源最终孕育出新的生命形式，死亡便不再是终点，而成为文明循环中的一个阶段。项目试图构建一套完整的后数字生命体系，探索数字文明与生物文明融合后的未来图景，并重新思考生命、记忆与存在的边界。",
+          "en": "Physical life creates digital life; digital life consumes physical resources; those resources give rise to a new life form. Death becomes a stage within a civilisational cycle. The project builds a post-digital life system to reconsider the boundaries of life, memory, and existence."
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "title": {
+        "zh": "研究与构想",
+        "en": "Research & concept"
+      },
+      "paragraphs": [
+        {
+          "zh": "研究从三个方向展开：死亡后个人信息的去向、维持数字世界所需的能源，以及污染物能否成为新的生物资源。数字遗产的持续保存，将生命延续的问题与数据中心的资源消耗联系起来。",
+          "en": "The research connects three questions: what happens to personal information after death, what resources sustain a digital world, and whether emissions could become a biological resource. Preserving digital legacies links life extension with the material cost of data storage."
+        },
+        {
+          "zh": "真实生命与数字生命彼此依存。项目在两者之间引入第三个节点：由数字记忆、生物信息与资源循环共同构成的后数字物种，让“死亡—转化—重生”形成闭环。",
+          "en": "Physical and digital life depend on each other. A third node—the post-digital species—connects memory, biological information, and resource circulation in a cycle of death, conversion, and rebirth."
+        },
+        {
+          "zh": "概念模型以一棵生长树组织三个阶段：底部保存逝者的数字遗产，中段转化维持数字系统产生的资源副产物，顶部培育新的物种。根、干与果实成为生命循环的空间表达。",
+          "en": "A growing tree organises the three stages: digital inheritance at its roots, resource conversion in its trunk, and new species as its fruit. This structure turns the life cycle into a spatial model."
+        }
+      ]
+    },
+    {
+      "id": "death",
+      "title": {
+        "zh": "死亡",
+        "en": "Death"
+      },
+      "paragraphs": [
+        {
+          "zh": "数字遗产保存系统：肉体死亡后，个体的记忆数据将被保存为数字遗产，并进入后数字生命循环体系。",
+          "en": "Digital inheritance system: after physical death, a person’s memory data is preserved and enters the post-digital life cycle."
+        }
+      ]
+    },
+    {
+      "id": "convert",
+      "title": {
+        "zh": "转化",
+        "en": "Convert"
+      },
+      "paragraphs": [
+        {
+          "zh": "资源转化系统：随着数字遗产规模持续增长，维持数据墓园运行所需的能源消耗不断增加。数据中心产生的大量碳排放与甲烷被视为后数字时代的新型资源，并通过生物技术重新进入生命循环体系。",
+          "en": "Resource conversion system: as digital legacies grow, maintaining the data cemetery requires more energy. In this speculative system, carbon emissions and methane become resources that biotechnology returns to the life cycle."
+        }
+      ]
+    },
+    {
+      "id": "reborn",
+      "title": {
+        "zh": "重生",
+        "en": "Reborn"
+      },
+      "paragraphs": [
+        {
+          "zh": "后数字物种培育：当数字遗产、生物资源与生命信息重新结合，一种介于现实生命与数字生命之间的全新物种开始诞生。它们被称为 NO.3 Post-digital Species，象征后数字文明中的第三生命形态。",
+          "en": "Post-digital cultivation: digital inheritance, biological resources, and life information recombine into a species between physical and digital life. NO.3 represents the third life form of this imagined civilisation."
+        }
+      ]
+    },
+    {
+      "id": "archives",
+      "title": {
+        "zh": "新物种与档案",
+        "en": "Species & archives"
+      },
+      "paragraphs": [
+        {
+          "zh": "为每一个 NO.3 个体建立独立档案，记录其生长阶段、生物特征、遗传来源以及资源转化过程，形成完整的新生命数据库。",
+          "en": "Each NO.3 individual has an independent record of its growth stages, biological characteristics, genetic origins, and resource conversion history, forming a database of new life."
+        }
+      ]
+    },
+    {
+      "id": "extension",
+      "title": {
+        "zh": "世界观延展",
+        "en": "World extension"
+      },
+      "paragraphs": [
+        {
+          "zh": "NO.3 后数字物种的出现，使生命第一次摆脱了现实与数字的边界。随着数量不断增长，它们逐渐形成独立的生态系统与文明结构，并成为后数字时代的新生命族群。围绕数字遗产、生命培育与资源分配产生的矛盾，也将推动新的社会秩序与文明冲突不断演化。",
+          "en": "The emergence of NO.3 moves life beyond the physical–digital boundary. As their numbers grow, these species develop ecosystems and civilisational structures of their own. Conflicts around digital inheritance, cultivation, and resource allocation reshape the social order."
+        },
+        {
+          "zh": "未来可围绕 NO.3 物种构建完整的后数字文明体系。玩家将扮演培育者、研究员或档案管理者，在数字遗产世界、物种培育与生态管理过程中推进文明发展。同时，不同来源的生命信息将孕育出独特个体，形成收集、养成与图鉴系统，并逐步解锁隐藏档案、文明历史与新物种分支。",
+          "en": "The world could extend into a game where players become cultivators, researchers, or archivists. Managing digital inheritance, species growth, and ecosystems advances the civilisation. Different information sources yield distinct individuals, supporting collection, cultivation, and a species catalogue that reveals hidden records and new branches."
+        }
+      ]
+    }
+  ]
+}
